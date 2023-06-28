@@ -1,6 +1,6 @@
 # Diabetis_Prediction
 
-* In this Project We are going to analyze different physical attributes of people in the given data and predict a model to predict if a person has diabetis or not
+* In this Project We are going to analyze different physical attributes of people in the given data and Create a model to predict if a person has diabetis or not
 
 
 # Data
